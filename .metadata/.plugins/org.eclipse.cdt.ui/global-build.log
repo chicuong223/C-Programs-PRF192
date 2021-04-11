@@ -1,0 +1,87 @@
+19:14:56 **** Build of configuration Debug for project Functions ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/Java/jre1.8.0_261/bin/server;C:/Program Files/Java/jre1.8.0_261/bin;C:/Program Files/Java/jre1.8.0_261/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-14.0.1\bin;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\;C:\Users\chiuy\AppData\Local\Microsoft\WindowsApps;C:\Users\chiuy\Downloads\Programs]
+19:16:10 **** Incremental Build of configuration Debug for project Functions ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[\bin;\bin;\usr\bin;C:/Program Files/Java/jre1.8.0_261/bin/server;C:/Program Files/Java/jre1.8.0_261/bin;C:/Program Files/Java/jre1.8.0_261/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-14.0.1\bin;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\;C:\Users\chiuy\AppData\Local\Microsoft\WindowsApps;C:\Users\chiuy\Downloads\Programs]
+19:16:16 **** Clean-only build of configuration Debug for project Functions ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+make clean 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[\bin;\bin;\usr\bin;C:/Program Files/Java/jre1.8.0_261/bin/server;C:/Program Files/Java/jre1.8.0_261/bin;C:/Program Files/Java/jre1.8.0_261/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-14.0.1\bin;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\;C:\Users\chiuy\AppData\Local\Microsoft\WindowsApps;C:\Users\chiuy\Downloads\Programs]
+19:16:46 **** Build of configuration Debug for project Functions ****
+Info: Configuration "Debug" uses tool-chain "Cygwin GCC" that is unsupported on this system, attempting to build anyway.
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[\bin;C:/Program Files/Java/jre1.8.0_261/bin/server;C:/Program Files/Java/jre1.8.0_261/bin;C:/Program Files/Java/jre1.8.0_261/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-14.0.1\bin;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\;C:\Users\chiuy\AppData\Local\Microsoft\WindowsApps;C:\Users\chiuy\Downloads\Programs]
+19:17:53 **** Incremental Build of configuration Debug for project Functions ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/Java/jre1.8.0_261/bin/server;C:/Program Files/Java/jre1.8.0_261/bin;C:/Program Files/Java/jre1.8.0_261/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-14.0.1\bin;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\;C:\Users\chiuy\AppData\Local\Microsoft\WindowsApps;C:\Users\chiuy\Downloads\Programs]
+19:44:24 **** Incremental Build of configuration Debug for project Functions ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Linear_Function.o "..\\Linear_Function.c" 
+Cannot run program "gcc": Launching failed
+
+Error: Program "gcc" not found in PATH
+PATH=[\bin;\bin;\usr\bin;C:/Program Files/Java/jre1.8.0_261/bin/server;C:/Program Files/Java/jre1.8.0_261/bin;C:/Program Files/Java/jre1.8.0_261/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-14.0.1\bin;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\;C:\Users\chiuy\AppData\Local\Microsoft\WindowsApps;C:\Users\chiuy\eclipse\cpp-2020-06\eclipse]
+
+19:45:15 **** Incremental Build of configuration Debug for project Functions ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Quadratic_Function.o "..\\Quadratic_Function.c" 
+Cannot run program "gcc": Launching failed
+
+Error: Program "gcc" not found in PATH
+PATH=[\bin;\bin;\usr\bin;C:/Program Files/Java/jre1.8.0_261/bin/server;C:/Program Files/Java/jre1.8.0_261/bin;C:/Program Files/Java/jre1.8.0_261/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-14.0.1\bin;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\;C:\Users\chiuy\AppData\Local\Microsoft\WindowsApps;C:\Users\chiuy\eclipse\cpp-2020-06\eclipse]
+
+19:47:38 **** Clean-only build of configuration Debug for project Functions ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf Linear_Function.o Fibonacci.d Shape.o Test.o Fibonacci.o Quadratic_Function.o Quadratic_Function.d Functions Linear_Function.d Test.d Shape.d 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[\bin;\bin;\usr\bin;C:/Program Files/Java/jre1.8.0_261/bin/server;C:/Program Files/Java/jre1.8.0_261/bin;C:/Program Files/Java/jre1.8.0_261/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-14.0.1\bin;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\;C:\Users\chiuy\AppData\Local\Microsoft\WindowsApps;C:\Users\chiuy\eclipse\cpp-2020-06\eclipse]
+
+19:47:38 **** Clean-only build of configuration Debug for project Functions ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+19:48:02 **** Rebuild of configuration Debug for project Functions ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Quadratic_Function.o "..\\Quadratic_Function.c" 
+Cannot run program "gcc": Launching failed
+
+Error: Program "gcc" not found in PATH
+PATH=[\bin;\bin;\usr\bin;C:/Program Files/Java/jre1.8.0_261/bin/server;C:/Program Files/Java/jre1.8.0_261/bin;C:/Program Files/Java/jre1.8.0_261/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-14.0.1\bin;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\;C:\Users\chiuy\AppData\Local\Microsoft\WindowsApps;C:\Users\chiuy\eclipse\cpp-2020-06\eclipse]
+
+19:48:56 **** Incremental Build of configuration Debug for project Functions ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Linear_Function.o "..\\Linear_Function.c" 
+Cannot run program "gcc": Launching failed
+
+Error: Program "gcc" not found in PATH
+PATH=[\bin;\bin;\usr\bin;C:/Program Files/Java/jre1.8.0_261/bin/server;C:/Program Files/Java/jre1.8.0_261/bin;C:/Program Files/Java/jre1.8.0_261/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-14.0.1\bin;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\;C:\Users\chiuy\AppData\Local\Microsoft\WindowsApps;C:\Users\chiuy\eclipse\cpp-2020-06\eclipse]
+
+19:50:20 **** Incremental Build of configuration Debug for project Functions ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Linear_Function.o "..\\Linear_Function.c" 
+Cannot run program "gcc": Launching failed
+
+Error: Program "gcc" not found in PATH
+PATH=[C:/Program Files/Java/jre1.8.0_261/bin/server;C:/Program Files/Java/jre1.8.0_261/bin;C:/Program Files/Java/jre1.8.0_261/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-14.0.1\bin;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\chiuy\AppData\Local\Programs\Python\Python38-32\;C:\Users\chiuy\AppData\Local\Microsoft\WindowsApps;C:\Users\chiuy\eclipse\cpp-2020-06\eclipse]
+

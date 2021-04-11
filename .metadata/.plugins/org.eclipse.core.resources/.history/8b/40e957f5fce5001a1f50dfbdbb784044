@@ -1,0 +1,20 @@
+/*
+ * Linear_Function.c
+ *
+ *  Created on: 24 Aug 2020
+ *      Author: Chi-Cuong
+ */
+#include <stdio.h>
+
+void linearFunc(){
+	float a,b;
+	printf("ax + b = 0\n");
+	printf("a = "); scanf("%f", &a);
+	printf("b = "); scanf("%f", &b);
+	if (a==0){
+		if(b==0) printf("Infinite Solutions\n");
+		else printf("No solutions\n");
+	}
+	else printf("x = %.2f\n", -b/a);
+}
+

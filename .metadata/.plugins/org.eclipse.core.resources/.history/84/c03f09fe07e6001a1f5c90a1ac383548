@@ -1,0 +1,36 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+../Fibonacci.c \
+../Linear_Function.c \
+../Quadratic_Function.c \
+../Shape.c \
+../Test.c 
+
+OBJS += \
+./Fibonacci.o \
+./Linear_Function.o \
+./Quadratic_Function.o \
+./Shape.o \
+./Test.o 
+
+C_DEPS += \
+./Fibonacci.d \
+./Linear_Function.d \
+./Quadratic_Function.d \
+./Shape.d \
+./Test.d 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+%.o: ../%.c
+	@echo 'Building file: $<'
+	@echo 'Invoking: Cross GCC Compiler'
+	gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o "$@" "$<"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+
